@@ -1,0 +1,33 @@
+body {background-color:#D8E1E9;}
+
+h1 {text-align: center;
+    background-color: white; }
+
+h2 {text-align: center;
+    background-color: #B3C5D7;
+    margin: 15px;
+}
+
+.menu {
+    display: flex; 
+    justify-content: space-between;
+    border: 10px double #B3C5D7;
+    padding: 20px ;
+    background-color:#7392B7 ;
+    margin: 5px; 
+    font-size: 20px;
+}
+
+.menu2 {
+    display: flex; 
+    justify-content: space-between;
+    border: 10px double #B3C5D7;
+    padding: 20px ;
+    background-color:#759EB8 ;
+    font-size: 22px;
+}
+.photos {
+    display: flex; 
+    justify-content: space-between;
+    height: 350px;
+}
